@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">ThucTap</string>
+
+    //Headings
+    <string name="heading_one">Tính bảo mật cao</string>
+    <string name="heading_two">Kết nối âm nhạc dễ dàng</string>
+    <string name="heading_three">Dễ thao tác và sử dụng</string>
+
+    //Descriptions
+    <string name="desc_one">Ứng dụng FPT Life không những mang lại tính tiện ích và kết nối, mà còn đem đến độ tin cậy, an toàn, tính bảo mật cao khi sử dụng.</string>
+    <string name="desc_two">Tận hưởng âm nhạc dễ dàng với ứng dụng FPT Life. Thưởng thức bản nhạc ưa thích mọi lúc, mọi nơi, tạo không gian âm nhạc thú vị và thoải mái trong ngôi nhà của bạn.</string>
+    <string name="desc_three">Ứng dụng FPT Life sẽ đem đến cho bạn những trải nghiệm tuyệt vời. Giao diện trực quan dễ thao tác và sử dụng chỉ với một lần chạm nhẹ hoặc lời nói.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="locations">
+        <item>An Giang</item>
+        <item>Bà Rịa Vũng Tàu</item>
+        <item>Bạc Liêu	</item>
+        <item>Bắc Giang	</item>
+        <item>Bắc Kạn</item>
+        <item>Bến Tre</item>
+        <item>Bình Dương</item>
+        <item>Bình Định</item>
+        <item>Bình Phước</item>
+        <item>Bình Thuận</item>
+        <item>Cà Mau</item>
+        <item>Cao Bằng</item>
+        <item>Cần Thơ</item>
+        <item>Đà Nẵng</item>
+        <item>Đắk Lắk</item>
+        <item>Đắk Nông</item>
+        <item>Điện Biên</item>
+        <item>Đồng Nai</item>
+        <item>Đồng Tháp</item>
+        <item>Gia Lai</item>
+        <item>Hà Giang</item>
+        <item>Hà Nam</item>
+        <item>Hà Nội</item>
+        <item>Hà Tĩnh</item>
+        <item>Hải Dương</item>
+        <item>Hải Phòng</item>
+        <item>Hậu Giang</item>
+        <item>Hòa Bình</item>
+        <item>Hưng Yên</item>
+        <item>Khánh Hòa</item>
+        <item>Kiên Giang</item>
+        <item>Kon Tum</item>
+        <item>Lai Châu</item>
+        <item>Lạng Sơn</item>
+        <item>Lâm Đồng</item>
+        <item>Long An</item>
+        <item>Nam Định</item>
+        <item>Nghệ An</item>
+        <item>Ninh Bình	</item>
+        <item>Ninh Thuận</item>
+        <item>Phú Thọ</item>
+        <item>Phú Yên</item>
+        <item>Quảng Bình</item>
+        <item>Quảng Nam</item>
+        <item>Quảng Ngãi</item>
+        <item>Quảng Ninh</item>
+        <item>Quảng Trị</item>
+        <item>Sóc Trăng</item>
+        <item>Sơn La</item>
+        <item>Tây Ninh</item>
+        <item>Thái Bình</item>
+        <item>Thái Nguyên</item>
+        <item>Thanh Hóa</item>
+        <item>Thừa Thiên Huế</item>
+        <item>Tiền Giang</item>
+        <item>TP Hồ Chí Minh</item>S
+        <item>Trà Vinh</item>
+        <item>Tuyên Quang</item>
+        <item>Vĩnh Long</item>
+        <item>Vĩnh Phúc</item>
+        <item>Yên Bái</item>
+    </string-array>
+    <string name="title_activity_device_add_favorite">DeviceAddFavoriteActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_all_device_favorite_of_cate">AllDeviceFavoriteOfCateActivity
+    </string>
+
+</resources>

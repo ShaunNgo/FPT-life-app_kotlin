@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginHorizontal="45dp"
+    android:background="@drawable/bg_black_corner_16">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:fontFamily="@font/sfprodisplaymedium"
+        android:paddingTop="20dp"
+        android:text="Tên Nhà" />
+
+    <EditText
+        android:id="@+id/edt_input_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="25dp"
+        android:background="@drawable/bg_black_input"
+        android:hint="Tên nhà"
+        android:textSize="16sp"
+        android:paddingVertical="15dp"
+        android:paddingHorizontal="25dp"
+        android:textColorHint="@color/grey"
+        android:textColor="@color/white"
+        android:inputType="text" />
+
+    <View
+        android:id="@+id/view4"
+        android:background="@color/blackLight"
+        android:layout_width="match_parent"
+        android:layout_height="1dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/border_top"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_cancel_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:textColor="@color/grey"
+            android:textSize="16sp"
+            android:fontFamily="@font/sfprodisplaymedium"
+            android:text="Thoát" />
+
+        <View
+            android:id="@+id/view3"
+            android:layout_width="1dp"
+            android:layout_marginVertical="10dp"
+            android:background="@color/blackLight"
+            android:layout_height="match_parent"/>
+
+        <Button
+            android:id="@+id/btn_accept"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:textColor="@color/orange"
+            android:textSize="16sp"
+            android:fontFamily="@font/sfprodisplaymedium"
+            android:text="Đồng ý" />
+
+    </LinearLayout>
+</LinearLayout>
